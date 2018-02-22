@@ -9,7 +9,7 @@ import javax.faces.bean.RequestScoped;
 @RequestScoped
 public class BonjourBean implements Serializable {
 
-    // chi tkfita m3ak
+    // pssssktch
     private static final long serialVersionUID = 1L;
 
     private String nom;
