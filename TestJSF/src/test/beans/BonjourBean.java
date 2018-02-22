@@ -9,16 +9,15 @@ import javax.faces.bean.RequestScoped;
 @RequestScoped
 public class BonjourBean implements Serializable {
 
-    // pssssktch
-    private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L;
 
-    private String nom;
+	private String Noooom;
 
-    public String getNom() {
-	return nom;
-    }
+	public String getNom() {
+		return Noooom;
+	}
 
-    public void setNom(String nom) {
-	this.nom = nom;
-    }
+	public void setNom(String nom) {
+		this.Noooom = nom;
+	}
 }
